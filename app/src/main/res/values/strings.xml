@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeltenTPR2</string>
+    <string name="title_loginInfo">登入資訊</string>
+    <string name="title_infusion">輸液核時</string>
+    <string name="title_patientInfo">患者資訊</string>
+    <string name="action_search">搜尋</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
